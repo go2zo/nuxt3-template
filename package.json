@@ -8,6 +8,7 @@
     "lint": "eslint --ext \".vue,.ts,.js,.mjs\" --ignore-path .gitignore --fix ."
   },
   "devDependencies": {
+    "@nuxt/content": "^2.0.0",
     "@nuxtjs/eslint-config-typescript": "^10.0.0",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
