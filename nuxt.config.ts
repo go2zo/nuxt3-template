@@ -10,5 +10,5 @@ export default defineNuxtConfig({
     //   { path: '~/components/templates', pathPrefix: false },
     { path: '~/components/app', pathPrefix: false },
   ],
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', 'nuxt-windicss'],
 });
