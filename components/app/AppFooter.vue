@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <div>
+    <div class="d-container">
       <span>© 2022</span>
     </div>
   </footer>

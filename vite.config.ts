@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
-import eslint from 'vite-plugin-eslint';
-import windicss from 'vite-plugin-windicss';
+import Eslint from 'vite-plugin-eslint';
 
 export default defineConfig({
-  plugins: [eslint(), windicss()],
+  plugins: [Eslint()],
 });

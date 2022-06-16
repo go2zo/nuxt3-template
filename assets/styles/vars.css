@@ -1,0 +1,9 @@
+:root {
+  --header-height: theme('spacing.14');
+}
+
+@screen md {
+  :root {
+    --header-height: theme('spacing.18');
+  }
+}
